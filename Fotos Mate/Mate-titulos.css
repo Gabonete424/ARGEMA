@@ -1,0 +1,40 @@
+
+.Preparacionmate {
+    font-family: FontAwesome;
+    height: 100px;
+    border-radius: 60%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-display: flex;
+    font: bolder;
+    background-color: #77ac3c;
+    
+
+}
+
+.Preparacionmate2 {
+    font-family: FontAwesome;
+    height: 100px;
+    border-radius: 60%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-display: flex;
+    font: bolder;
+    background-color: #77ac3c;
+    
+
+}
+
+.centrar-texto{
+
+    font-family: FontAwesome;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center; 
+    
+}
